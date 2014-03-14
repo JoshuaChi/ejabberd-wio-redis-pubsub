@@ -1,4 +1,4 @@
--module(ejb_pub).
+-module(ejb_wio_pub).
 
 -export([pub/1]).
 
